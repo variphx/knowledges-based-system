@@ -1,0 +1,11 @@
+<form method="post">
+	<label for="username">
+		Username
+		<input type="text" name="username" />
+	</label>
+
+	<label for="password">
+		Password
+		<input type="password" name="password" />
+	</label>
+</form>
